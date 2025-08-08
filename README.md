@@ -30,7 +30,7 @@ config.txt:
 格式：仓库名;仓库说明;仓库地址
 仓库名: 将作为本地下载目录的名称。
 仓库说明: 对仓库的简单备注，方便识别。
-仓库地址: 必须是GitHub仓库的Releases页面或Tags页面的链接，例如 https://github.com/user/repo/releases。
+仓库地址: 必须是GitHub仓库的Releases页面或Tags页面的链接，例如 https://github.com/user/repo/releases
 首次运行时，程序会自动创建此文件。
 data.json:
 用途：程序的“记忆”文件，以JSON格式存储。不建议手动修改。
